@@ -4,4 +4,5 @@ public static void main(String[] args) {
 	r *= i;
     }
     System.out.println(r);
+	    System.out.println("我是刘继宏");
 }
